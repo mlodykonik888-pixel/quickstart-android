@@ -27,7 +27,7 @@ Getting Started
 - Go to the [Meta for Developers Site](https://developers.facebook.com) and follow all
   instructions to set up a new Android app.
   - When asked for a package name, use
-  `com.google.firebase.quickstart.auth`.
+  `com.aistudio.merchcraft.pxmw`.
   - When asked for a main class name,
   use `com.google.firebase.quickstart.auth.kotlin.MainActivity`.
 - Go to the [Firebase Console][fir-console] and navigate to your project:

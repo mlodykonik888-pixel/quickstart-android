@@ -15,7 +15,7 @@ android {
     flavorDimensions += "minSdkVersion"
 
     defaultConfig {
-        applicationId = "com.google.firebase.quickstart.auth"
+        applicationId = "com.aistudio.merchcraft.pxmw"
         minSdk = 24
         targetSdk = 37
         versionCode = 1
